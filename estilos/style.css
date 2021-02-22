@@ -20,7 +20,13 @@ h1 {
 }
 
 img.lado{
+    padding-left: 10px;
     float: right;
+}
+
+img.curso-lado {
+    padding-right: 10px;
+    float: left;
 }
 
 h2 {
